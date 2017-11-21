@@ -1,2 +1,3 @@
 # hello-world
-this is my welcome repo, where I store ideas, resources, and share and discuss things with others
+
+hello there, I'm a backend developer and I love music
